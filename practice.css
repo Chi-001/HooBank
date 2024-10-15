@@ -1,0 +1,33 @@
+*{
+    background-color: #000;
+    
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: #FFFF;
+}
+
+h1{
+    color: blue;
+    padding-left: 40px;
+}
+
+.menu{
+    display: flex;
+    gap: 4em;
+    padding: 20px;
+    padding-right: 40px;
+}
+
+.search{
+    border-radius: 50px;
+    border-color: white;
+    margin-top: 20px;
+}
